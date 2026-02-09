@@ -321,10 +321,3 @@ Created as a full-stack job tracker application.
 For support, email support@jobtracker.com or create an issue in the repository.
 
 ---
-
-**Note:** To add screenshots, create a `screenshots/` folder in the root directory and add your UI images, then reference them in the README like:
-```markdown
-![Home Page](screenshots/HomePage.png)
-![Job Listings](screenshots/Jobs.png)
-![Description](screenshots/Description.png)
-```
